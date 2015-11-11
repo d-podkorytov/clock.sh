@@ -1,0 +1,5 @@
+while true
+do
+ echo -e -n "\r" `date`
+ sleep 1
+done

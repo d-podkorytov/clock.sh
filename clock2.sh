@@ -1,0 +1,1 @@
+xterm -b 20 -bg gray -cr darkgray -fa mono -fs 20 -bw 32 -T "Local Time" -bd green -ms red -fg black -geometry 35x2 -font fontDoublesize ./clock
