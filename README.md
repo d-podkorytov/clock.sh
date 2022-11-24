@@ -1,14 +1,14 @@
-# clock.sh
+# Clock.sh
 
-ABOUT
+# About
 
-An Simple and Portable Clock based on xterm and date command
+It is an Simple and Portable Clock in text mode based on xterm and date command
 
-Made at 15 minuts just for fun and as example of shell scripting for my students
+It made during 15 minuts just for fun and as example of shell scripting for my students
 
 clock is terminal version, and others is for xterm wrappers.
 
-INSTALL
+# Install
 
 chmod +x *
 for i in `ls clock*` 
@@ -17,7 +17,5 @@ do
 done
 
 Tested on Dedian Linux and FreeBSD.
-
-
 
 With best wishes,  Dmitry Podkorytov
